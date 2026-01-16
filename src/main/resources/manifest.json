@@ -1,0 +1,15 @@
+{
+  "Group": "com.example.hytale",
+  "Name": "hytale-mod-template",
+  "Version": "0.0.1",
+  "Description": "Template for Hytale Mods",
+  "Authors": [
+    { "Name": "example", "Email": "example@example.com", "Url": "example.com" }
+  ],
+  "Website": "example.com",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "example.hytale.ExamplePlugin"
+}
